@@ -2,263 +2,1501 @@
 	{
 		"id":0,
 		"title":"Amantiitiin",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":   [  "Amantiitiin ×4",
+		           " An ooleeraa×2 ",
+					"Du'a jalaas miliqeeraa jireeyasoo argadheeraa",
+					"Yesuus dhufee×2 cubbuu jalaa nu baafatee",
+					"{Kaadhimamoo jireenyaatii",
+					"Nuti ijoollee Waaqayyootii}×2\n \n",
+					"Gargaarsisaaf araarrisaa",
+					"Baay'ee guddaadha jalaallisaa",
+					"Nuuf laateeraa tokkichasaa",
+					"Mul'iseera karaa Yesuus jalaalasaa",
+					"Mul'iseera karaa ilmasaa jalaalasaa\n \n",
+					"Yesuus dhufee nu baraaree",
+					"Qooda keenya nuuf reebamee",
+					"Cubbuu malee nuuf yakkamee",
+					"Mootummaansaa nuuf kennamee\n \n",
+					"Olii dhufee barbaachakoo",
+					"Na fayyistee ati Abbaakoo",
+					"Karaa dhugaan jireenyisii" ,
+					"sidhaa Yesuus balballisii",
+					"NU OOLLEERRAA"]
 	},
 	{
 		"id":1,
 		"title":"Araara barbaacha",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song": [  
+			    "Araara barbaacha mana kee dhufeeraa",
+				"Kanan sitti yakke yakkikoo baay’eedhaa",
+				"Adaraa Waaqakoo ati nu qulleessii",
+				"Lookoo jaalalakeen ofitti nu qabii\n\n",
+
+				"Barri kun hamaadha cubbuutti nu oofaa",
+				"Waanti argamu hundinuu hin soba hin darbaa",
+				"Hunduu yeroo darbu si duwwaat natti hafaa",
+				"Kannaf Yaa waaqakoo araaraaf dhufeeraa\n\n",
+
+				"Baay’een na jibbanii na irratti ka’anii",
+				"Sababa cubbuu koof haa du’u jedhanii",
+				"Si duwwaatu argee hibboo jireenyakoo",
+				"Dhiifamaan naa dhuftee ulfaadhu abbaakoo\n\n",
+
+				"Akka cubbuu koof silaa badeen turee",
+				"Lammaffaa dhaladheen nama ha’aa ta’ee",
+				"Kaleessi koo darbee har’a haara’eeraa",
+				"Ulfaadhu Waaqakoo dhiifama argadheeraa"
+]
 	},
 	{
 		"id":2,
 		"title":"Abdiin keenyaa Tsiyoon",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[ 
+			    "Abdiin kenyaa tsiyoonii×2 ishee waaqarraa",
+				"Kan amantan hundinuu jabaadhaa hin gallaa",
+				"(Dhugaadhaan mudhii hidhannee ibsaa qoqopheeffannee",
+				"Yoo deemne hin gallaa",
+				"Abdii nu kutaa hin hafuu yaaddoon lafarraa)×2\n\n",
+
+				"Abdiin kenyaa tsiyoonii silaa waan lafaa mitii waamichi keenyaa",
+				"Karaatti cabee hin hafuu dildilli keenyaa",
+				"Hin geenya isa yaadamnee hin rafnu erga waamamnee",
+				"(Ka’aa hin dammaqnaa",
+				"Waan darbu nu doorsifnaan maaliif raafamnaa)×2\n\n",
+
+				"Galfata dhugaa qabnaa kan biilii fi daanoon nyaattee hin balleessinee",
+				"Kan hattuun qottee lixxee hin barbadeessinee",
+				"(Balballisaa Waaqayyoo kan barrii bane cufuu gaafas isumaa",
+				"Hinkoon keenya hin nyaatamuu kan qajeelummaa)×2\n\n",
+
+				"Ibsaan keenya akka hin dhaamnee akka durboota shanan warra gowwootaa",
+				"Abdii keenya akka hin dhabnee ya obbolootaa",
+				"(Iniii tsiyoonii dhufuu warra ibsaa qabaniin hin simatamaa", 
+				"Kanaa achi lafti dukkanaan hin nyaatamaa)×2"
+
+	]
 	},
 	{
 		"id":3,
-		"title":"Attam godheen",
-		"artist":"Unknown"
+		"title":"Attam nu gammachiisaa",
+		"artist":"Unknown",
+		"song": [  
+			"Attam nu gammachiisaa dhalachuun Iyyesusii",
+			"Furii lubbuu keenyaa nuuf ta’e innisii",
+			"Gadi of deebisee foon uffataa ta’ee ",
+			"Galanni isaaf haa ta’uu fayyinaan nu ga’ee\n\n",
+			
+			"Waaqayyoon wallaallee hin jiru isa jenne",
+			"Karaarraa isa kaanne bannee kan joonjone",
+			"Dhalachuu iyyesusiin araara arganne",
+			"Ishoo hin gammanna jireenyatti bane\n\n",
+			
+			"Raajicha isaayyaasiin akkuma jedhame",
+			"Waaqayyo abbaa biraa Yesuus nuuf ergame",
+			"Innichi dhalatee maqaansaa dinqiiidhaa",
+			"Waaqa baraa baraa angafa nagaadhaa\n\n",
+			
+			"Inni nuuf ergame mootichi waaqarraa",
+			"Kunoo nu fureera dhibee keenya hundarraa",
+			"Waa’ee gocha isaatiif galata galchinaa",
+			"Ililleef gammachuun maqaasaa faarfannaa\n\n",
+			
+			"Kottaa in gammannaa ilillee guddaanii",
+			"Waa’eesaa yaaduudhaan wagguma waggaanii",
+			"Halkanii fi guyyaa inni tiksee keenyaa",
+			"Egaa maal sodaannaa inni da’oo keenyaa"
+			
+		]
 	},
 	{
 		"id":4,
-		"title":"Attam nu gammachiisaa",
-		"artist":"Unknown"
+		"title":"Anaan na waamteettaa",
+		"artist":"Unknown",
+		"song":[
+			  
+			"Anaan na waamteettaa biyya lafaa keessaa",
+			"Ati naaf guddaadhaa Yesuus ati naaf ogeessaa",
+			"Ani hin yeella’uu gammadeen si faarsaa",
+			"Situ na dabarsee du’a suukanneessaa\n\n",
+			
+			"Manake dhaabadhee anaan na guddistaa",
+			"Diinotako hundaa lafa ilaalchistaa",
+			"Dhiifake qulqulluun na qulqulleessitee",
+			"Nama abdii hin qabne cubbuu keessaa fuutee",
+			"Tarre qulqullootaa na filtee na keessee",
+			"Manake nan dhaalaa kanaafan si faarsaa\n\n",
+			
+			"Hafuurake nuuf ergii humna nuuf haa laatuu",
+			"Hojjechuu hin dhiisnee kan nutti fakkaatuu",
+			"Sagalee ke ergii nu akka gaggeessuu",
+			"Kallattii hundumaan akka nu barsiisuu",
+			"Ogummaa nuuf kennii biyya lafaa kana haalaan qorraa\n\n",
+			
+			"Sagalee ke barree itti akka jiraannuu",
+			"Biyya lafaa qorree sirriitti akka ilaalluu",
+			"Warra ormaatiifis fakkeenya akka taanuu",
+			"Warra kaan deebisnee manake akka dhaalu",
+			"Yaa Gooftaa Yesuus maaloo nu gargaari"
+			
+		]
 	},
 	{
 		"id":5,
-		"title":"Amma mul'aata",
-		"artist":"Unknown"
+		"title":"Ani hin yeella'uu",
+		"artist":"Unknown",
+		"song":[
+			    "Ani hin yeella’uu harka keetu na guddisee",
+				"Akkan hin duuneef daangaa jireenyaa bal’isee",
+				"Gooftummaan ke Yesuus barumaan darbee jiraataa",
+				"An homaa hin shakkuu barruu harka keetu na baataa×2\n\n",
+
+				"Karaan adeemuu harka keenan gaggeeffamaa",
+				"Ani homaa hin ta’uu siin jireenyi koo eegamaa",
+				"Waamtee na fiddee harka ormaatti na hin hambistuu",
+				"Kakuun na baastee harka ormaatti na hin hambistuu\n\n",
+
+				"Ayyaanni kee kun kattaa kooti anaaf gaachanaa",
+				"Na marsee jiraa yeroo hunda anaaf kafanaa",
+				"Humni kee Yesuus galaanayyu dhaabachiisee",
+				"Loltuu didichu oofee galaana nyaachisee\n\n", 
+
+				"Egaa si’achi barruu harka keettan baatamaa",
+				"Harka ormaa mitii si durattan barbaadamaa", 
+				"Ulfinni jiraa abdiin guddaansaa manakee",
+				"Sit na baasee eenyutu na dhowwate eebbakee"
+
+		]
+		       
 	},
 	{
 		"id":6,
-		"title":"Anaan na waamteettaa",
-		"artist":"Unknown"
+		"title":"Araara siin jennaa",
+		"artist":"Unknown",
+		"song":[
+			"Araara siin jennaa gara keetti iyyinaa",
+			"Si waammachaa jirraa harka keenya ol kaasnee",
+			"Si malee hin mijatuu alliif keessi keenyaa",
+			"Waawwannee si waammannaa nuuf dhiisi abbaa keenyaa\n\n",
+			
+			"Utuu abbaa qabnuu ormatti hirkannee", 
+			"Ifake utuu beeknuu dukkanaan nyaatamnee",
+			"Harka ol fudhannee araara siin jennaa",
+			"Nu qulleessi adaraa araara siin jennaa\n\n",
+			
+			"Oolmaake isa baay’ee nunoo hin dagannee",
+			"Nu deebisi Gooftaa nutoo sitti of laannee",
+			"Karaa ke isa sirriirra ati nu deemsisii",
+			"Ayyaanaaf humna ke ati nuuf baay’isi\n\n",
+			
+			"Manna ke roobsitee utuu nu nyaachistuu",
+			"Kattaa keessaa buustee bishaan nu obaastuu",
+			"Nu garuu dagannee guddaa si yakkinee",
+			"Nu mil’adhu Gooftaa nutoo sitti of laannee\n\n"
+			
+		]
 	},
 	{
 		"id":7,
-		"title":"Ani hin yeella'uu",
-		"artist":"Unknown"
+		"title":"Ajaa'iba Gooftaa",
+		"artist":"Unknown",
+		"song":[
+			    "Ajaa’iba Gooftaa oolmaan naaf oolamee",
+				"Ajaa’iba Yesuus gochaan naaf godhamee",
+				"Isa kam dubbadheen isa kamiin dhiisaa",
+				"Sammuu koon ol ta’ee garaa ko na raasaa\n\n",
+
+				"Oolmaa ati naaf goote yoomiyyuu hin dagadhuu",
+				"Hojii fannoo keetii tasa hin irraanfadhuu",
+				"Naaf jettee dhiphattee jireenya naaf laattee",
+				"Kan namni naa hin baanne ba’aako naaf baattee\n\n", 
+
+				"Qoodan du’uu qabu ofiike naaf duutee",
+				"Waanjoon baachuu qabu ofiike naaf baastee",
+				"Jechoota qindeessee tarreessee hin xumuruu",
+				"Ulfinni hin dabarre teessooke haa marsuu\n\n",
+
+				"Ulaagaa hin daangessine gara keetti na waamtee",
+				"Biyya lafaa keessaa ati na fo’attee",
+				"Jechaan hin madaalu gochaa ati naaf gootee",
+				"Qoodakoo dhiphattee fannoorratti rarraatee"
+
+		]
 	},
 	{
 		"id":8,
-		"title":"Araara siin jennaa",
-		"artist":"Unknown"
+		"title":"Abdiin si eeggannaa",
+		"artist":"Unknown",
+		"song":[
+		  	    "Abdiin si eeggannaa Iyyesuus hin dhuftaa",
+				"Dafii koottu Gooftaa ameen maranaataa",
+				"Sin hin dhiisu jettee biyya lafaarrattii",
+				"Harka keen nu qabii nutoo ijoollee keetii\n\n",
+
+				"Biyyi lafaa kunii darabaadha Gooftaa", 
+				"Haadhoon wal dabarsee ormatti wal laataa",
+				"Hafuura ke ergii nu baraari maaloo",
+				"Si eegggachaa jirraa dhaabbanneerra kunoo\n\n",
+
+				"Barichi hammaatee wal jibbuun baay’atee",
+				"Waliif ho’uun dhibee jaalalli qal’atee",
+				"Humna ke barbaannaa jabeessii nu dhaabii",
+				"Hamma xumuraatti harka keenya qabii\n\n",
+
+				"Haa deemnu obbolootaa Gooftaatti jabaannee",
+				"Akka abboommiisaatti Gooftaatti jabaannee",
+				"Ijoollee dukkanaa akka hin jedhamne", 
+				"Ifatti jiraanna Gooftaatti amannee\n\n",
+
+				"Jireenya lafarraa isa darbuuf jettee",
+				"Isa barabaraa hin dhabiin gowwomtee",
+				"Ibsaan ke akka hin dhaamne ati qopheeffadhuu",
+				"Dhufaatii Gooftaakee abdiidhaan eeggadhuu" 
+
+		]
 	},
 	{
 		"id":9,
-		"title":"Ajaa'iba Gooftaa",
-		"artist":"Unknown"
+		"title":"Boqonnaa na barsiistee",
+		"artist":"Unknown",
+		"song":[
+			    "Boqonnaa na barsiistee hidhaa du’aattii na hiiktee",
+				"Jireenyaatti na waamtee haara gaalfii naaf laattee",
+				"(Urga’aa naardosii yoon dhangalaase fuula keettii)×2",
+				"Kan na quubsu atoo abbaa oolmaa kootii\n\n",
+
+				"Isan gammadee arge diinnikoo maaf quqquuqamaa",
+				"Anoo kanarra caalaa sichan ta’ee argamaa",
+				"Gammachuun koo itti fufaa daangeffamee hin deebi’uu",
+				"Gaafa booriiko argu diinniko akkam haa ta’uu",
+				"Gadduunsaayyu itti haa hafuu garaansaa haa madaa’uu",
+				"Hamma baraa baraattti maqaan Gooftaa haa maamamuu\n\n",
+
+				"Innoo waa’ee koof jedhee kan kanarra caalu ta’ee",
+				"Eeboodhaan waraanamee cinaachi isaa hin madaa’ee",
+				"Dhiigni isaa akka dafqaa isarraa gadi yaa’ee",
+				"Birbadummaa akkasiittan an jireenyattan ce’ee",
+				"Maal eessaa walqixaree yommuun wal bukkee qabuu",
+				"Isa akkas na jaallatee lubbuusaa naaf dhabuu\n\n",
+
+				"In xinnaata galanni koo nan dabalaa",
+				"Oolmaasaa akkamiinan madaalaa"
+
+		]
 	},
 	{
 		"id":10,
-		"title":"Abdiin si eeggannaa",
-		"artist":"Unknown"
+		"title":"Baricha bitaa",
+		"artist":"Unknown",
+		"song":[
+			"Baricha bitaa adda baafadhaa",
+			"Gara itti gortan egaa ilaalladhaa",
+			"(Baay’ee ulfaatus haalli jireenyaa",
+			"Kan nu gargaaruu Waaqayyo keenyaa)×2\n\n",
+
+			"Bara dhumaa jala hunduu hin ariifataa",
+			"Kansaa godhachuudhaaf hundumtuu hin sammataa ",
+			"kan jireenya dhaalu isa qullaa’edhaa",
+			"kan badiisa dhaalu isa xuraa’edha\n\n",
+
+			"Waaqayyo ka’eera namoota qulleessuuf ",
+			"Seexannis ka’eera namoota balleessuuf",
+			"Egaamee hubadhaa yaadatti qabadhaa",
+			"Gara eenyuu taatumee isin fo’adhaa\n\n",
+
+			"Karaan lamatu jira as lafa kanarraa",
+			"Jireenya kan qabu tokkuma agarraa",
+			"Karichi dhugaani karaa Yesuusii",
+			"Isuma duwwaadha kan fayyisusii\n\n",
+
+			"Akkasumas immoo kan seexanaa jiraa",
+			"Yeroo muraasaafoo innumti iyyuu jiraa",
+			"Garuu booddeesaarra badiisatu jiraa",
+			"Jireenyi dhugaani Gooftaa Yesuus biraa\n\n",
+
+			"Carraa siniif keenya wanta lama keessaa",
+			"Filachuu dandeessu obboleettii obboleessaa",
+			"Karaa lama keessaa isa kam filattuu",
+			"Karaa seexanaamoo kan Yesuus fo’attuu",
+			"Kan Yesuus fo’annaa"  
+
+		]
 	},
 	{
 		"id":11,
-		"title":"Boqonnaa na barsiistee",
-		"artist":"Unknown"
+		"title":"Baroota darbanitti",
+		"artist":"Unknown",
+		"song":[
+			"Baroota darbanitti Gooftaa na gargaartee",
+			"Ayyaana keetiinis ana geggeessitee ×2",
+			"Abbaa jabaan qaba isa na gargaaruu",
+			"Burraaqeen faarfadhaa diinniko haa dhaga’uu×2\n\n",
+			
+			"Darboo diinaa jalaa ana miliqsitee",
+			"Du’a akka tasaa lubbuuko oolchitee×2",
+			"Darbeen tarkaanfadhee kiyyoo diina kootii",
+			"Si’achis na hin argatuu Gooftaan diina kootii\n\n",
+			
+			"Diinni awwaara kaasaa an darbee sokkeeraa",
+			"Funyoo safara koo Gooftaan bal’iseeraa×2",
+			"Boolli naaf qotamee afaan banee hafee",
+			"Anoo hin duune jiraa jireenyattan hafee\n\n",
+			
+			"An sagaleen qabaa baroota keessattii",
+			"Mogoleeen nah in bu’uu jecha diina kootiin×2",
+			"Gooftaan dubbateeraa akkani jiraadhuu",
+			"Nama ulfinaa ta’ee akkani faarfadhuu×2\n\n",
+			
+			"Humni Gooftaa keenyaa hundumaa danda’aa",
+			"Kaayyoof dhoksaa diinaa innoo bakkee baasaa×2",
+			"Kan akkasaa hin jiruu Waaqaaf lafarrattii",
+			"Baruma baraanii galanni kansaatii×2"
+			
+		]
 	},
 	{
 		"id":12,
-		"title":"Baricha bitaa",
-		"artist":"Unknown"
+		"title":"Bara dabarsitee",
+		"artist":"Unknown",
+		"song":[
+				"Bara dabarsiteee ofii kan jiraattuu",
+				"Uumama hundumaa ofii kan hooggantuu",
+				"Barri mootummaakee daangaa fi dhuma hin qabuu",
+				"Oolchaa lubbuu keenyaa galanniifi ulfinni guddaan si haa qaqqabuu\n\n",
+
+				"Hunduu daanga’aadhaa biyyaa lafaarrattii",
+				"Akkuma fixeensaa yeroof mul’atee baduutii",
+				"Kan kee garuu addaa mootii waaqaaaf lafaa",
+				"Dur durii jalqabdee kan jirtuu Gooftaan gooftotaa si qofaa\n\n",
+
+				"Jaalala adda ta’een kan at nu jaallattee",
+				"Fannoo gubbaarratti dhiiga kee lolaastee",
+				"Laaqii cubbuu keessaa harkistee nu baastee",
+				"Jireenya barabaraaf kan nu kaadhimmattee\n\n",
+
+				"Jalqabnii fi xumurri waan hundumaa sidhaa",
+				"Gaggeessaa fi gorsaa gaariin gooftaa koo si duwwaadhaa",
+				"Araarri kee hedduu daangaa kan hin qabnee",
+				"Si galateeffannaa sagalee keenya ol fudhannee"
+
+		]
 	},
 	{
 		"id":13,
-		"title":"Baroota darbanitti",
-		"artist":"Unknown"
+		"title":"Barichoo baayyee ulfaataa",
+		"artist":"Unknown",
+		"song":[
+			"Barichoo baay’ee ulfaataa ",
+			"Dhaabbii hin laatu nama raasaa",
+			"Akkam goone dhaabbannu nutoo ",
+			"Gooftaa nutoo wallaalotaa",
+			"(Humna kee olii nuuf ergii ya Waaqayyo abbaa keenyaa",
+			"Barichaa kana ittiin binnee ittiin galla biyya keenya)×2\n\n",
+
+			"Seexannii biyya lafaasoo akka nu bannuu barbaadaa\n\n",
+			"Yeroo hundaa kiyyoo diriirsee ittiin nu qabuu barbaadaa",
+			"(Kaayyoosaa fashaleessiitiii humna keetiin nu dabarsii",
+			"Biyya abdii keenyaa Yesuuskoo kana’aaniin nu geessisii)×2\n\n",
+
+			"Akka saba israa’elii irree kee utuu arginuu",
+			"Mana ergamootaa keessaa utuu nyaannee utuu dhugnuu",
+			"(Booddee keenya akka hin mil’annee sirraa akka gara hn gallee",
+			"Nu gargaari yaa Gooftaakoo dhumni keenya akka hin fokkifnee)×2\n\n",
+
+			"Biyya keenya galuu geenyee fuulleettis ijaan arginee",
+			"Gowwomsaa diinaan qabamnee booddee keenya akka hin mil’annee",
+			"(Ati nu gargaari goftaa qofaa keenya homaa hin dandeenyuu",
+			"Nutoo garbiraa hin qabnuu simadhaa kan nut abdannuu)×2\n\n",
+
+			"Galaanaa baay’eetu jiraa akka nuti hin ceene Goftaa",
+			"Humna keetiin nu ceesisii akkumaa bara ergamootaa",
+			"(Humna keetiin nu dabarsii galaanicha gargar hirii",
+			"Booddee keenya kan dhufanii diinotaa keessatti hambisii)×2"
+
+		]
 	},
 	{
 		"id":14,
 		"title":"Bara dabarsitee",
-		"artist":"Unknown"
+		"artist":"Unknown",
+        "song":[
+			    "Bara dabarsiteee ofii kan jiraattuu",
+				"Uumama hundumaa ofii kan hooggantuu",
+				"Barri mootummaakee daangaa fi dhuma hin qabuu",
+				"Oolchaa lubbuu keenyaa galanniifi ulfinni guddaan si haa qaqqabuu\n\n",
+
+				"Hunduu daanga’aadhaa biyyaa lafaarrattii",
+				"Akkuma fixeensaa yeroof mul’atee baduutii",
+				"Kan kee garuu addaa mootii waaqaaaf lafaa",
+				"Dur durii jalqabdee kan jirtuu Gooftaan gooftotaa si qofaa\n\n",
+
+				"Jaalala adda ta’een kan at nu jaallattee",
+				"Fannoo gubbaarratti dhiiga kee lolaastee",
+				"Laaqii cubbuu keessaa harkistee nu baastee",
+				"Jireenya barabaraaf kan nu kaadhimmattee\n\n",
+
+				"Jalqabnii fi xumurri waan hundumaa sidhaa",
+				"Gaggeessaa fi gorsaa gaariin gooftaa koo si duwwaadhaa",
+				"Araarri kee hedduu daangaa kan hin qabnee",
+				"Si galateeffannaa sagalee keenya ol fudhannee"
+
+		]
 	},
 	{
 		"id":15,
-		"title":"Barichoo baayyee ulfaataa",
-		"artist":"Unknown"
+		"title":"Cubbuun keenya",
+		"artist":"Unknown",
+		"song":[  "Amantiitiin ×4",
+		" An ooleeraa×2 ",
+		 "Du'a jalaas miliqeeraa jireeyasoo argadheeraa",
+		 "Yesuus dhufee×2 cubbuu jalaa nu baafatee",
+		 "{Kaadhimamoo jireenyaatii",
+		 "Nuti ijoollee Waaqayyootii}×2\n \n",
+		 "Gargaarsisaaf araarrisaa",
+		 "Baay'ee guddaadha jalaallisaa",
+		 "Nuuf laateeraa tokkichasaa",
+		 "Mul'iseera karaa Yesuus jalaalasaa",
+		 "Mul'iseera karaa ilmasaa jalaalasaa\n \n",
+		 "Yesuus dhufee nu baraaree",
+		 "Qooda keenya nuuf reebamee",
+		 "Cubbuu malee nuuf yakkamee",
+		 "Mootummaansaa nuuf kennamee\n \n",
+		 "Olii dhufee barbaachakoo",
+		 "Na fayyistee ati Abbaakoo",
+		 "Karaa dhugaan jireenyisii" ,
+		 "sidhaa Yesuus balballisii",
+		 "NU OOLLEERRAA"]
 	},
 	{
 		"id":16,
-		"title":"Bara dabarsitee",
-		"artist":"Unknown"
+		"title":"Cubbamota ta'uu keenyaaf",
+		"artist":"Unknown",
+		"song":  [  "Amantiitiin ×4",
+		" An ooleeraa×2 ",
+		 "Du'a jalaas miliqeeraa jireeyasoo argadheeraa",
+		 "Yesuus dhufee×2 cubbuu jalaa nu baafatee",
+		 "{Kaadhimamoo jireenyaatii",
+		 "Nuti ijoollee Waaqayyootii}×2\n \n",
+		 "Gargaarsisaaf araarrisaa",
+		 "Baay'ee guddaadha jalaallisaa",
+		 "Nuuf laateeraa tokkichasaa",
+		 "Mul'iseera karaa Yesuus jalaalasaa",
+		 "Mul'iseera karaa ilmasaa jalaalasaa\n \n",
+		 "Yesuus dhufee nu baraaree",
+		 "Qooda keenya nuuf reebamee",
+		 "Cubbuu malee nuuf yakkamee",
+		 "Mootummaansaa nuuf kennamee\n \n",
+		 "Olii dhufee barbaachakoo",
+		 "Na fayyistee ati Abbaakoo",
+		 "Karaa dhugaan jireenyisii" ,
+		 "sidhaa Yesuus balballisii",
+		 "NU OOLLEERRAA"]
 	},
 	{
 		"id":17,
-		"title":"Cubbuun keemya",
-		"artist":"Unknown"
-	},
-	{
-		"id":18,
-		"title":"Cubbamota ta'uu keenyaaf",
-		"artist":"Unknown"
-	},
-	{
-		"id":19,
 		"title":"Duuti sin dandeenyee",
-		"artist":"Unknown"
-	},
-	{
-		"id":20,
-		"title":"Dhaggeeffaadhaa ",
-		"artist":"Unknown"
-	},
-	{
-		"id":21,
-		"title":"Dhalateeraa",
-		"artist":"Unknown"
-	},
-	{
-		"id":22,
-		"title":"Danda'aa waaqa",
-		"artist":"Unknown"
-	},
-	{
-		"id":23,
-		"title":"Dammaqi kristaanaa",
-		"artist":"Unknown"
-	},
-	{
-		"id":24,
-		"title":"Dammaqii",
-		"artist":"Unknown"
-	},
-	{
-		"id":25,
-		"title":"Darbattee",
-		"artist":"Unknown"
-	},
-	{
-		"id":26,
-		"title":"Daaraa goote",
-		"artist":"Unknown"
-	},
-	{
-		"id":27,
-		"title":"Dhiyaateeraa",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[
+			"(Duuti si hin dandeenyee si’iin Gooftaa keenyaa",
+			"Cabsitee kaateettaa arfiisaa hundumaa)×2",
+			"(Baroonni ke daangaa lakkoofsa hin qabanii",
+			"Sammuu namaan olii kan ke mootummaanii)×2\n\n",
+			
+			"Oogummaan kan namaa gowwummaa ke hin caaluu",
+			"Tasumaa adeemee kan kee bira hin ga’uu",
+			"(kan ke hin madaalamuu arjoomnii fi guddinnii",
+			"Hoomtuu si hin qixxaatuu macci hundi kunii)×2\n\n",
+			
+			"Waaqayyoon jajadhaa galata isaaf laadhaa",
+			"Oolmaa Gooftaa keenyaa guddisaa faarfadhaa",
+			"(balbalicha du’aa isa nurraa cufee",
+			"Jireenya isa dhugaa Gooftaatu nuuf kennee)×2\n\n",
+			
+			"Si galateeffannaa tokkummaan wal geenyee",
+			"Waa’ee guddummaa keef sagalee ol fudhannee",
+			"(Dinqiidha Iyyesuus oolmaa ati nuuf ooltee",
+			"Duula keetiin Gooftaa jireenya nuuf laattee)×2"
+			
+		]
 	},
 	{
 		"id":28,
+		"title":"Dhaggeeffaadhaa ",
+		"artist":"Unknown",
+		"song":[
+			    "Dhaggeeffaadhaa ya sabaakoo",
+				"Siiifan dhaamaa an ergaakoo",
+				"Gorsa guuddaa siifan qaabaa",
+				"Gurra keessan mee as qaabaa\n\n",
+
+				"Waaqayyoolii warra oormaa",
+				"Meetiif warqeen kan tolfaman ",
+				"Si keessaatti hin argamiin",
+				"Isaaniifis hin sagadiin\n\n",
+
+				"Sagalee ko tuffattanii",
+				"Yaada keessan filattanii",
+				"Mataa jabeeyyii taatanii",
+				"Waaqa keessan dagattaniia\n\n",
+
+				"Sabako mee dhaggeeffadha",
+				"Deemsa keessan sirreeffaadhaa",
+				"Na dhaga’aa ya sabaakoo",
+				"Ogummaa siinan barsiisaa\n\n",
+
+				"Sagaleenkoo jiraataadhaa",
+				"Bara baraan jiraataadhaa",
+				"Anoo waaqa amanamaadhaa",
+				"Rakkoo keessan natti himadhaa"
+
+		]
+	},
+	{
+		"id":19,
+		"title":"Dhalateeraa",
+		"artist":"Unknown",
+		"song":[
+				"Dhalateeraa Yesuus dhalateeraa",
+				"Gammanneerraa nutis gammanneerraa",
+				"Ifni guddaan waaqarraa dhufeeraa",
+				"Lubbuu keenyaaf furii nuuf laateeraa\n\n",
+				
+				"Ulfinasaa waaqarratti dhiisee",
+				"Gad deebi’ee waan hundumaa dhiisee",
+				"Nuuf dhalatee maariyaam durbarraatii",
+				"Nu baafatee harka seexeenaatii\n\n",
+				
+				"Jaalallisaa lakkka’amee hin dhumuu",
+				"Fayyisuudhaaf hundumaa kan waamuu",
+				"Araarrisaa ammana hin jedhamuu",
+				"Kan akkasaa eessattuu hin argamuu\n\n",
+				
+				"Yesuus dhufee cubbuutii nu furee",
+				"Hundi keenya silaa  badnee turree",
+				"Fayyineerraa isatti amannee",
+				"Maqaa isaatiin kunoo luba taanee\n\n",
+				
+				"Qulqulluudhaa ilma waaaqa abbaatii",
+				"Hin argamuu waaqni akka isaatii",
+				"Garraamiidhaa garaa laafessadha",
+				"Inni ergame hangafa nagaadhaa\n\n",
+				
+				"Arganneerraa mo’umsa guddaasaa",
+				"Diina keenya yesuus qaanesseeraa",
+				"Yaaddoo hin qabnuu isarratti boqoonnaa",
+				"an fayyinee waaqayyoon jajannaa"
+			
+		]
+	},
+	{
+		"id":20,
+		"title":"Danda'aa waaqa",
+		"artist":"Unknown",
+		"song":[
+			"Danda’aa Waaqa dhugaa Iyyesuus Aalfaaf Oomegaa",
+			"Kan akka ke nama jaallatu eessa jira ree yaa Gooftaa",
+			"(utuu beektonni jiranii atoo wallaalaan hojjettaa",
+			"Safuudha waa’een ke Goftaako baay’isee na ajaa’ibaa)×2\n\n",
+			
+			"Koottu gara koo siif wayya jettee Gooftaakoo na waamtee",
+			"Anis gara kee dhufeenii Yesuus araa galfii guddaa argadhee",
+			"(Waaqa beekamaadhaam atii mucaakoo jettee na waamtee",
+			"Jireenya gaariin jiraadheem Yesuus erga at abbaa naa taatee\n\n",
+			
+			"Goftaakoo kan kee kun addaa ati maaluma dadhabdaa",
+			"Galaana yordaanosiyyu hirtee saba kee ceesiftaa",
+			"(Ati akka namaa mitii suuta jettee dinqii hojjettaa",
+			"Duudaaf jaamaa bantee Goftaako dhageessitfee agarsiiftaa)×2\n\n",
+			
+			"Yeroon rakkadhee homaa dhabetti situ fira anaaf ta’ee",
+			"Samii saaqxee bantee Yesuusko dubbii keen na jabeessitee",
+			"(Barbaachi ati anaaf qabduu yesuus baay’ee na ajaa’ibaa",
+			"Kan kee kana maal himeen maal dhiisaa galatoomi baraa baraan)×2\n\n",
+			
+			"Ati eelshaadaayidhaa Yesuus danda’aa waan hundumaa",
+			"Nama umuriisaan jaame agarsiifte adeemsiftaa",
+			"(Jaalalli at nuuf qabdu Gooftaako baay’isee addaa",
+			"Maqaanke haa eebbifamuu ulfaadhuu yaa abbaa olmaa)×2"
+			
+		]
+	},
+	{
+		"id":21,
+		"title":"Dammaqi kristaanaa",
+		"artist":"Unknown",
+		"song":[
+				"Dammaqi kristaanaa ka’I maaf raftaa",
+				"Barichoo dhumuu ga’ee Yesuus dhufuu ga’eera ka’I maaf raftaa",
+				"Milikkinni dhufasaa baay’een raawwatameera",
+				"Callaanii fi ingirdaadni gargar ba’uu ga’eera ka’I maaf raftaa\n\n",
+				
+				"Walittii qabadhuu jireenya baraa baraa",
+				"Gooftaa kee waammadhuu isumatu si gargaaraa ka’I maaf raftaa",
+				"Kan biraa hin ilaalinii hundumtuu si sossobaa",
+				"Yesusiin amanadhuu hundumaa of harkaa qabaa ka’I maaf raftaa\n\n",
+				
+				"Utuu Gooftaan hin dhufiin qophaa’ee kan eeggatee",
+				"Gammadee isa faarfataa gonfoo harkaa fudhatee ka’I maaf raftaa",
+				"Gingilchaa of harkaa qabaa kan ittiin gargar baasuu",
+				"Tolootaaf qopheesseeraa manatti isaan galchuu ka’I maaf raftaa\n\n",
+				
+				"Ingirdaada yoo Taatee ibiddatti gubattaa",
+				"Har’a yoo mugdee raftee bara baraan rakkattaa ka’I maaf raftaa",
+				"Dammaqii isa eeggadhuu abboommiisaa raawwadhuu",
+				"Abiddichaa ooluufi qulqullummaa qabaadhuu ka’I maaf raftaa\n\n",
+				
+				"Sagalee malakata du’anillee hin dhaga’uu",
+				"Jalloonnii fi qulqulloonnii gaafasoo gargar ba’uu ka’I maaf raftaa",
+				"Mandarattii qulqulluu yerusaalemiin galuuf",
+				"Dammaqii isa kadhadhuu Gooftaankee si waameeraa ka’I maaf raftaa"
+			
+		]
+	},
+	{
+		"id":22,
+		"title":"Dammaqii",
+		"artist":"Unknown",
+		"song":[
+				"Dammaqii×4 iddoo jirtu barii ariifadhuutii",
+				"Utuu yeroo qabduu ka’ii atii",
+				"Yesuus hin deebi’aa yeroo isaattii\n\n",
+
+				"Biyyi lafaa hin darba guutummaan hojiisaa",
+				"Maaliif si gowwomsa maaf kaatta duukaasaa",
+				"Bareeda fakkaate argama bu’aansaa",
+				"Gubii baraa baraa badiisa dhumnisaa\n\n",
+
+				"Hir’uu amantiitiin dhaabachuu hin dandeessuu",
+				"Guutuutti akka argamtuutti abboommisaa hubadhuu",
+				"Qubatti hidhadhuu garaatti barreeffadhuu",
+				"Waan gootu hundumaaf oogummaa bitadhuu\n\n",
+
+				"Guyyaan har’aa hin darbaa deebi’ee hin dhufuu ",
+				"Booddeetti deebi’ee lamuu hin lakka’amuu",
+				"Yesuus hin deebi’aa guyyaasa eeggatee",
+				"Fuulasaa arguudhaaf qophoofteettamooree\n\n"
+
+		]
+	},
+	{
+		"id":23,
+		"title":"Darbattee",
+		"artist":"Unknown",
+		"song":[
+				"Darbattee na hin gannee na simte Waaqakoo",
+				"Galata kee fudhuu aarsaa ke Gooftaa koo",
+						"HOO’U GALATAKOO",
+				"Anis ya Gooftaakoo aarsaan si dhiyeessaa",
+				"Qabeenya at naaf laattee waanan qabu keessaa",
+					"HOO’U YA FAYYISAA\n\n",
+
+				"Xinnoo galatakoo maaloo hin tuffatinii ",
+				"Maqaake eebbisuu jaalladheera anii",
+				"Galatake fudhuu at saba kanarraa",
+				"Nuyi dhoksuu hin dandeenyuu ittiin fayyineerraa\n\n",
+
+				"Gochaake yaa goftaa amma hubadheeraa",
+				"Du’a na oolchuu ke ija keen argeeraa",
+				"Gochaake ya Gooftaa an dhoksuu hin danda’uu",
+				"Waaqaaf lafarratti maqaanke haa mo’uu\n\n",
+
+				"Arrabako hiiktee guutte galataanii",
+				"Baay’ina cubbuu koof utuu na hin gatiinii",
+				"Yesuus at Gooftaadha saba kanarrattii",
+				"Gooftummaa keen himaa an saba hundaattii\n\n",
+
+				"Diigdee awwaalakoo jireenyatti na baastee",
+				"Bishaan jireenyaatiin lubbuuko na jiistee",
+				"Situu narraa kaasee mallatticha du’aa",
+				"Sitti fayyuu kootiin gammaduun naaf ta’aa"
+
+		]
+	},
+	{
+		"id":24,
+		"title":"Daaraa goote",
+		"artist":"Unknown",
+		"song":[
+			    "Daaraa×3 goote Yesuus koo diinakoo×2",
+				"Ija diinakoo lafa ilaalchistee",
+				"Karaa diinakoo qoraattiin cuftee",
+				"Bowwaa guddaattii gad isaan buustee",
+				"Ana mucaakee na gammachiftee\n\n",
+				
+				"Diinni koo hin gadda malee hin gammaduu",
+				"Halkaniif guyyaa haara hin galfatuu",
+				"Kan ko garaan koo akka aduu ifaa",
+				"Barumaa baraan siinan gammadaa\n\n",
+				
+				"Garaansaa ishoo iyyee waa hubatee",
+				"Abiddii si’ool baga isaan nyaatee ",
+				"Kan ko garaan koo aaraa galfatee",
+				"Barumaa baraan boqonnaa argatee\n\n",
+				
+				"Daaraa gootettaa Goftaa diinakoo",
+				"Bowwaa gootettaa mana diinakoo",
+				"Kan ko mannikoo gubbaa waaqarraa",
+				"Yesuusiin biraa mana ishee haaraa\n\n"
+		]
+	},
+	{
+		"id":25,
+		"title":"Dhiyaateeraa",
+		"artist":"Unknown",
+		"song":[
+				"Dhiyaateraa guyyaan inni sodaachisaan",
+				"Inni akka iddoo ibiddaa gubee barbadessaan",
+				"Warra xuraa’otaaf boo’uuf ilkaan qaruun",
+				"Kansaa kan ta’aniif Yerusaalem dhaaluun",
+				"Dhiyaateraa yeroon duumessaan butamuu\n\n",
+
+				"Halonni hin dubbatuu halkaniif guyyaasaa",
+				"Dhufaatiin Gooftichaa balbala ga’uusaa",
+				"Hunduu raawwatamee eertuun yeroo sanaa ",
+				"Inni abdachiifamee yeroo dhiyootti mul’inaan argamaa\n\n",
+
+				"Argannes yoo dhabnes nu hin raasin waan lafaa",
+				"Inni amma argamuu bor tasa dhabamaa ",
+				"Gidiraan baay’atus abdii keenya hin dhaamsin",
+				"Qulqulloota waliin qooda nu hin dhabsiisin\n\n",
+
+				"Beekumsa barichaan hin wallaalchifamiin ",
+				"Badhaadhummaan isaa homaa si hin booji’iin",
+				"Inni akka cidiitti guyyicha hin gubataa",
+				"Waan abdii hin qabneef maaliif bojonjortaa\n\n",
+
+				"HIN DHUFAA GOFTAAN KEENYAA ERGAMOOTAAN MARFAMEE",
+				"NU SIMUUDHAAF OL HIN BAANAA DUUMESSAAN SASSAABAMNEE"
+
+		]
+	},
+	{
+		"id":26,
 		"title":"Galatoomii",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song" :[
+				"Galatoomii ya Waaqayyo Gooftaa",
+				"Siin jiraannee nama har’aa taaneerraa",
+				"Nuuf taateettaa oolchaa lubbuu keenyaa ",
+				"Ati ulfaadhuu ya fayyisaa keenyaa \n\n",
+
+				"Hin argamuu Waaqni akka keetiii",
+				"Kan fayyisuu lubbuu ijoollee isaatii",
+				"Nuuf of laattee ati of hin qusannee",
+				"Taatee dhuftee hoolaa mudaa hin qabnee\n\n",
+
+				"Ergiteettaa Yesuusiin ilmakee ",
+				"Fayyisuudhaaf lubbuu ijoollotakee",
+				"Sit nu waamee biyya lafaa keessaa",
+				"Siin argannee ifa dinqisiisaa\n\n",
+
+				"HIn argamuu Waaqni akka keetiii",
+				"Siin fayyinee cubbuu jalaas baanee",
+				"HIn dagannuu oolmaa ati nuuf ooltee",
+				"Siin argananee jireenya hin dabarree"
+
+		]
+	},
+	{
+		"id":27,
+		"title":"Garraamiidhaa",
+		"artist":"Unknown",
+		"song":[
+			"Garraamiidhaa hoolaa mudaa hin qabnee",
+			"Jireenyasoo sirratti agarree",
+			"Gaarummaan ke nurra baay’ateera",
+			"Siif laanna fudhu galata afaan keenyaa",
+			"ARAARRIKEE×2 NUUF BAAY’ATEERA ARAARRIKEE",
+			"HAFUURA QULQULLUU SIT NUUF LAATAA",
+			"SIIF LAANNA FUDHU GALATA AFAAN KEENYAA\n\n",
+			
+			"Kan gatamnee si’it nu barbaadee",
+			"Tarree namaa sit nu dhaabsifatee",
+			"Kanaaf nunoo gochaake dubbannaa",
+			"Cal hin jennuu galata siif laannaa\n\n",
+			
+			"Tola kedhaan unuun nu fo’attee",
+			"Lubbuukesoo dabarsitee laattee",
+			"Gaarummaankee nurra baay’ateeraa",
+			"Galatoomii galata siif laannaa\n\n",
+			
+			"Garraamiidhaa cubbamaa jaallattaa",
+			"Nama hundaa wal-qixa ilaaltaa",
+			"Kan kee kunoo akkamuma raajiidhaa",
+			"Siin argannee gargaarsaa hiyyeessaa\n\n",
+			
+			"Bara keenya guutuu siif bitamnaa",
+			"Gaarummaake hundatti odeessinaa",
+			"Si jaallanna jaalala dhugaanii",
+			"Siif bitamnaa baruma baraanii\n\n"
+			
+		]
+	},
+	{
+		"id":28,
+		"title":"Gooftaakoo",
+		"artist":"Unknown",
+		"song":[
+					"Goftaakoo sin galateeffadhaa",
+					"Dhabaadheen maqaake faarfadhaa",
+					"(narraaa buustee ba’aa ammana ga’uu",
+					"Goftaakoo galanni si haa ga’uu",
+					"Yesuuskoo galanni si haa ga’uu)×2\n\n",
+
+					"Wanjookoo anarraaa darbattee",
+					"Goftaakoo fayyina naaf laattee",
+					"(Eessatti argama kan akka kee",
+					"Yesuuskoo haa ulfaatu maqaankee)×2\n\n",
+
+					"Baay’een saaniii na bira darbanii",
+					"Ilaaluu xurii ko jibbanii",
+					"(Hunduumtuu yommuu na tuffatuu ",
+					"Yesuuskoo maqaan ke haa ulfaatuu)×2",
+
+					"Lafarraa ijako ol fudhadhee",
+					"Goftaakoo fannoo keen ilaalee",
+					"(Fannoo kee jalatti duutikoo",
+					"Haa ta’u anaaf awwaalchikoo)×2\n\n",
+
+					"Gaaddisa koo Goftaako da’ookoo",
+					"Haa ulfaatuu maqaan ke baabbuukoo",
+					"(olan kaasaa ulfaataa maqaakee",
+					"Siinan faarsaa guddisee gochaakee)×2\n\n",
+
+					"Haleeluyyaa sin galateeffadhaa",
+					"Dhaabadheen maqaake faarfadhaa",
+					"(Hin jiruu fayyisaan akka kee", 
+					"Baabbuukoo haa ulfaatu maqaankee)×2"
+
+		]
 	},
 	{
 		"id":29,
-		"title":"Garraamiidhaa",
-		"artist":"Unknown"
+		"title":"Galata kee Yesuus",
+		"artist":"Unknown",
+		"song":[
+				"Galatake Yesuus galaatakee",
+				"Barbaadellee hin argu kan akka kee",
+				"Halkaniif guyyaa hundumaattii",
+				"Yeroo hundaa na duukaadha yaadnikee",
+				"Waanan qabu hundumtuu yennaa dhumee",
+				"Qaamni ko hundumtuu yennaa ciccitee",
+				"Firri koo hundumtuu yoo na jibbanii",
+				"Si duwwaadha duwwaadha yesuus kan na jaallatee\n\n",
+
+				"Seexanni dhufee yennaa na qoree",
+				"Kanan qabu hundaa yennaa hunkuree",
+				"Goftaa ko fuula keen jilbeengadhee",
+				"Qullaako dhufuu ko nan yaadadhee\n\n",
+
+				"Jaalala keetiin situ naa laatee",
+				"Fedha koo taanaan situ fudhatee",
+				"Atoo hundaa qabdaa anoo hin raafamuu",
+				"Maqaan ke guddaa haa eebbifamuu",
+
+				"Qaamni ko hundumtuu yennaa qurcaa’ee",
+				"Raammoon na keessaa yennaa harca’ee",
+				"Atoo hundaa qabdaa anoo hin raafamuu",
+				"Maqaan ke guddaa haa eebbifamuu \n\n",
+
+				"Waaqayyo guddaa gara laafessaa",
+				"Gadda ko hundaa haqe na keessaa",
+				"Yoon gumfume illee natti hin dheekkamnee",
+				"Yakka koo hundaa natti hin lakkoofnee\n\n",
+
+				"Firri koo yaa’anii na jajjabeessuu",
+				"Ilaaleen dhabee kan na fayyisuu",
+				"Yesuus duwwaatu ol ol na qabee",
+				"Badhaadhummaan kos kunoo naa deebi’ee"
+			
+		]
 	},
 	{
 		"id":30,
 		"title":"Gooftaakoo",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[
+				"Goftaakoo hubaanna nuuf keenni bara kana keessa",
+				"Ittiin gargar baafna dubbichoo wal keessaa",
+				"(mana ke keessatti qulqullummaan dhibee",
+				"Hunduu wal sossooba arrabasaa dibee)×2\n\n",
+
+				"Ka’ime Goftaako bara kana keessa",
+				"Hunduu haa qullaa’u jireenyo wal keessaa",
+				"Dubbii ke isa dhugaa irraa ka’anneerra",
+				"Goftaa nu Deebisi nu har’a banneerra\n\n",
+
+				"Hunduu ya Waaqayyoo cubbuu dhoksineerra",
+				"Utuu bannee jirruu ija jabaanneerraa",
+				"Dubbii at dubbaatte eenyuut hubateeraa",
+				"Gara jireenyaatti eenyuti wal fideeraa\n\n",
+
+				"Cubbuu utuu hojjennuu mana keetti fiignaa",
+				"Nutti hin dhaga’amuu utaallee faarfaannaa",
+				"Addaan baasi Gooftaa dubbii bara kanaa",
+				"Baay’ee sodaachisa jireenyi akkanaa"
+
+		]
+
 	},
 	{
 		"id":31,
-		"title":"Galata kee Yesuus",
-		"artist":"Unknown"
+		"title":"Galata waaqayyoof",
+		"artist":"Unknown",
+		"song":
+		[  "Amantiitiin ×4",
+		           " An ooleeraa×2 ",
+					"Du'a jalaas miliqeeraa jireeyasoo argadheeraa",
+					"Yesuus dhufee×2 cubbuu jalaa nu baafatee",
+					"{Kaadhimamoo jireenyaatii",
+					"Nuti ijoollee Waaqayyootii}×2\n \n",
+					"Gargaarsisaaf araarrisaa",
+					"Baay'ee guddaadha jalaallisaa",
+					"Nuuf laateeraa tokkichasaa",
+					"Mul'iseera karaa Yesuus jalaalasaa",
+					"Mul'iseera karaa ilmasaa jalaalasaa\n \n",
+					"Yesuus dhufee nu baraaree",
+					"Qooda keenya nuuf reebamee",
+					"Cubbuu malee nuuf yakkamee",
+					"Mootummaansaa nuuf kennamee\n \n",
+					"Olii dhufee barbaachakoo",
+					"Na fayyistee ati Abbaakoo",
+					"Karaa dhugaan jireenyisii" ,
+					"sidhaa Yesuus balballisii",
+					"NU OOLLEERRAA"]
+
+		
 	},
 	{
 		"id":32,
-		"title":"Gooftaakoo",
-		"artist":"Unknown"
+		"title":"Haalleluyyaa",
+		"artist":"Unknown",
+		"song":   [  "Amantiitiin ×4",
+		" An ooleeraa×2 ",
+		 "Du'a jalaas miliqeeraa jireeyasoo argadheeraa",
+		 "Yesuus dhufee×2 cubbuu jalaa nu baafatee",
+		 "{Kaadhimamoo jireenyaatii",
+		 "Nuti ijoollee Waaqayyootii}×2\n \n",
+		 "Gargaarsisaaf araarrisaa",
+		 "Baay'ee guddaadha jalaallisaa",
+		 "Nuuf laateeraa tokkichasaa",
+		 "Mul'iseera karaa Yesuus jalaalasaa",
+		 "Mul'iseera karaa ilmasaa jalaalasaa\n \n",
+		 "Yesuus dhufee nu baraaree",
+		 "Qooda keenya nuuf reebamee",
+		 "Cubbuu malee nuuf yakkamee",
+		 "Mootummaansaa nuuf kennamee\n \n",
+		 "Olii dhufee barbaachakoo",
+		 "Na fayyistee ati Abbaakoo",
+		 "Karaa dhugaan jireenyisii" ,
+		 "sidhaa Yesuus balballisii",
+		 "NU OOLLEERRAA"]
 	},
 	{
 		"id":33,
-		"title":"Galata waaqayyoof",
-		"artist":"Unknown"
-	},
-	{
-		"id":34,
-		"title":"Haalleluyyaa",
-		"artist":"Unknown"
-	},
-	{
-		"id":35,
 		"title":"Haa galateeffamuu",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[
+				"Ha galateeffamuu maqaankee ",
+				"Ulfinaan ha guutuu tessoon kee",
+				"Situ nurraa kaasee ba’ichaa ulfaataa",
+				"Ol kaastee nu dhaabdee gaara gaarotaarraa",
+				"Haa ta’uu maqaankee hundumaa garaarraa\n\n",
+
+				"Osoo si hin beekiinii baay’ee jooraa turree",
+				"Biyya lafaa keessaa gatantarree kufnee",
+				"Harka keet nu kaasee iddoo gadii sanaa",
+				"Kanaaf deddeebinee galata siin jennaa\n\n",
+
+				"Bara gadi jeennnee ol kaastee nu dhaabdee",
+				"Mandara diinota keenyaa nu dhaalchistee",
+				"Ya Waaqayyo Gooftaa olmaankee guddaadhaa",
+				"Barumaa baraanii olol jedhi jennaa\n\n",
+
+				"Gochaakee Goftaakoo dubbaddee hin fixuu",
+				"Du’a na oolchitee maqaan kee haa ulfaatuu",
+				"Dhiiga keenan oolee du’a gar maleerraa",
+				"Abidda boba’aa afaan bane irraa"
+
+		]	
 	},
 
     {
-		"id":36,
+		"id":34,
 		"title":"Hammam yoo hammaatee",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[
+				"Hammam yoo hammaatee  jireenyi lafarraa",
+				"Gidiraan baay’atee namnis dhabuu falaa",
+				"Keeenyaa qophaa’aadhaa ol gubbaa waaqarraa",
+				"Biyyaa qulqullooftuu goftaa yesuus biraa\n\n",
+				
+				"Nutii abdii qabnaa kan abdachiifamnee",
+				"Yaada sammuu namaan gararraa kan ta’ee",
+				"Abdii bara baraa Gooftaan nuuf qopheessee",
+				"Biyya qulqullootaa faayamtee miidhagdee\n\n",
+				
+				"Waaqayyo abbaa qofaan kan hoogganamtuu ",
+				"Beela’uuf dheebochuun tasa keessa hin jiruu",
+				"Yaaddoon biyya lafaa keessatii hin argamuu",
+				"Yeroo hunda gammachuun kan nuti faarfannuu\n\n",
+				
+				"ABDII QABNAA×4 KAN GOOFTAAN KAN QOPHEESSEE TOLOOTAAF MIJEESSEE",
+				"IJAAF GURRI NAMAA TAKKAA HIN DHAGEENYEE",
+				"DHAALA NUUF QOPHAA’E HATTUUN HIN FUDHATTUU",
+				"BIILIIF DAANOON NYAATTEE TASA HIN BALLEESSITUU",
+				"ABDII QABNAA×4"
+		]
+	},
+	{
+		"id":35,
+		"title":"Ifni kee dhufeeraa",
+		"artist":"Unknown",
+		"song":[    "Ifni kee dhufeeraa ",
+					"Ulfinni Waaqayyoo siif ba’eeraa",
+					"Kanaaf ka’ii ibsii dukkanni kee sirraa ka’eeraa×2\n\n",
+					
+					"Warra Gooftaa qaban Gooftaat gammachiisaa",
+					"Ceephoo irraa kaasee maqaa haaraa moggaasaa",
+					"Garaan gaddee bo’ee gaafas hin gammadaa",
+					"Warra gataman Gooftaatu barbaadaa\n\n",
+					
+				    "Gammadii ilischii ifti sii ba’eeraa",
+					"Inni si rakkisee ba’aan kee kufeeraa",
+					"Ol jedhii adeemii boquun kee hin bu’iinii",
+					"Gooftaan si yaadatee yeroonsaa geenyaaanii\n\n",
+					
+					"Ammayyu kan boossu dukkanaan marfamtee ",
+					"Abdiinke cinnaanii ofirra gad-teessee",
+					"Ol jedhii adeemii lafti bari’eeraa ",
+					"Barri gadda keesoo amma raawwateera\n\n"
+		]
+	},
+	{
+		"id":36,
+		"title":"Inni diriiree",
+		"artist":"Unknown",
+		"song":[
+				"Inni diriiree harkisaa hin dachaanee ",
+				"Ofitti si waamuuf yomu garaa hin jabaannee",
+				"Si eegaa jiraa harka bal’isee",
+				"Ofitti si qabuuf hunda caalchisee\n\n",
+
+				"Bakka nagaa hin qabnee cooma murmuruurraa",
+				"Nagaadhaan marfamtee beela’uu siif wayyaa",
+				"Me mee maaltu dhibe harka isaatii",
+				"Ati isaaf jiraadhu hunda obsiitii\n\n",
+
+				"Waaqummaasaa dhiisee siif jedhee gad bu’e",
+				"Humnaa fi aangoo hin dhabnee kan inni qaana’ee",
+				"Hin fedhuu garaansa rakkinatti si dhiisuu",
+				"Lubbuusaa garaarratti kan inni siif yaaduu\n\n",
+
+				"Lubbuu keef kan ta’uu isa harka jira",
+				"Deebi gara isaatti isatu siif fira",
+				"Koottu siin jedhaa harka bal’isee",
+				"Innoo si hin laatuu ormatti dabarsee"
+
+		]
 	},
 	{
 		"id":37,
-		"title":"Ifni kee dhufeeraa",
-		"artist":"Unknown"
+		"title":"Iyyesuus abba olmaa koo",
+		"artist":"Unknown",
+		"song":[
+				"Goftaakoo hubaanna nuuf keenni bara kana keessa",
+				"Ittiin gargar baafna dubbichoo wal keessaa",
+				"(mana ke keessatti qulqullummaan dhibee",
+				"Hunduu wal sossooba arrabasaa dibee)×2\n\n",
+				
+				"Ka’ime Goftaako bara kana keessa",
+				"Hunduu haa qullaa’u jireenyo wal keessaa",
+				"Dubbii ke isa dhugaa irraa ka’anneerra",
+				"Goftaa nu Deebisi nu har’a banneerra\n\n",
+				
+				"Hunduu ya Waaqayyoo cubbuu dhoksineerra",
+				"Utuu bannee jirruu ija jabaanneerraa",
+				"Dubbii at dubbaatte eenyuut hubateeraa",
+				"Gara jireenyaatti eenyuti wal fideeraa\n\n",
+				
+				"Cubbuu utuu hojjennuu mana keetti fiignaa",
+				"Nutti hin dhaga’amuu utaallee faarfaannaa",
+				"Addaan baasi Gooftaa dubbii bara kanaa",
+				"Baay’ee sodaachisa jireenyi akkanaa"
+			
+		]
 	},
 	{
 		"id":38,
-		"title":"Inni diriiree",
-		"artist":"Unknown"
+		"title":"Jaalala hin qabnu",
+		"artist":"Unknown",
+		"song":[
+				"Jalalaa hin qabnuu nutoo cubbamootaa",
+				"Du-attii wal dhiibnaa akka ijoollee hamootaa",
+				"(Nutti araaramii adaraa yaa Gooftaa",
+				"Jaalala nuuf kenni kan bara ergamootaa)×2\n\n",
+				
+				"Hin faarfanne malee nutoo itti hin jiraanne",
+				"Humna kee nuuf kenni isa nuti dhabne",
+				"(Jaalallike Gooftaa nu gidduu haa buufatuu",
+				"Humni fayyisuuke nu irratti haa raawwatu)×2\n\n",
+				
+				"Nutti araaramii gara keetti deebinaa",
+				"Wal-qoqqoduu dhiifnee Gooftaa wal-jaallanna",
+				"(oduutiin hin dhumiin Gooftaa barri keenya",
+				"Humni kee haa dhufu gaafas wal-dandeenya)×2\n\n",
+				
+				"Jibbi lafa dhaalee jaalala arii’eera",
+				"Sabni kee hundumtuu Gooftaa walitti hammateera",
+				"(Jaalala nuuf kenni akka wal jaallannu",
+				"Dhugaadhaan dhaabannee akka si faarfannu)×2\n\n",
+				
+				"Sobatu baay’ate biyya lafaa keessa",
+				"Irra keessa kolfaa keessa wal madeessa",
+				"(Garaa nuuf laafi maaloo adaraa yaa Gooftaa",
+				"Jaalalli keenyasoo gaafas humna argata)×2\n\n"
+			
+		]
 	},
 	{
 		"id":39,
-		"title":"Iyyesuus abba olmaa koo",
-		"artist":"Unknown"
+		"title":"Jaalallekoodha atii",
+		"artist":"Unknown",
+		"song": ["Jaalallekdha atii isa bara ijoollummaa×4 ",
+				"Sirraa adda hin ba’uu gonkumaa yoom illee",
+				"Hundeen ko si keessatti kan innii biqilee\n\n",
+				
+				"Hoo fudhuu aarsaakooo Gooftaa siin dhiyeessaa",
+				"Weeddudhaan maqaa kee yeroo hundaa ol kaasaa",
+				"Waan atii naaf gootee dubbadhee hin fixuu",
+				"Lubbuu koo oolchitee Gooftaa si gaa galatuu\n\n",
+				
+				"Utuun si hin beekinii Gooftaa na jaallattee",
+				"Ol gubbaa waaqarraa anaaf jettee dhuftee",
+				"Harka koo na qabdee ol fuutee na dhaabdee",
+				"Galatoomi yesuus ha ulfaatu maqaanke\n\n",
+				
+				"Oolmaa keef safuudhaa waan ati naaf taatee",
+				"Fannnoo irratti ol baatee waa’ee koof dhiphattee",
+				"Utuu hin mararfatiin lubbuu ke naaf laattee",
+				"Qulqulluu dhiiga keen ana quulleessitee\n\n"]
+		
 	},
 	{
 		"id":40,
-		"title":"Jaalala hin qabnu",
-		"artist":"Unknown"
+		"title":"Jaalala yeroo mucummaaa",
+		"artist":"Unknown",
+		"song":[
+				"Jaalala yeroo mucummaa ke isa naaf qabduu",
+				"Meerre eessa geessee ya mucaako atii kan raftuu",
+				"Hinaaffaa yeroo mucummaa ke isa naaf qabduu",
+				"Meerree eessa geessee ya mucaako at kan jaawartuu\n\n",
+				
+				"Anat si kaasee awwaara keessaa eddoo gatamtee",
+				"Anat si dhaabee ya mucaako tarrree hiriyyaakee",
+				"Qofaa ke teessee yeroo boossu anat si argee",
+				"Isa si gaaduu qaanesseetan sirraa gab-hodhee\n\n",
+				
+				"Nama koo fakkaattta irra keessa homtuu si hin beekuu",
+				"Garuu keessi kee kun badeera at kana hin beektuu",
+				"Jaalala yeroo mucummaa ke sana gattteettaa",
+				"Maalooo deebi’ii ya mucaa koo an si argeeraa\n\n",
+				
+				"Maqaa ko waamtee hojjetteetta dinqiii gurguddaa",
+				"Si wajjiin ta’ee an diigeeraa golee diinotaa",
+				"Har’a eessa dhaqee ayyaanniiko inni jalqabaa",
+				"Firdiitti akka hin galle mucaako deebi’I adaraa\n\n",
+				
+				"Mee na dhaga’ii ya mucaako an sittan himaa",
+				"Jaalala yeroo mucummaake sana ilaalikaa",
+				"Yoo ati deebiee ya mucaako an sin deebisaa",
+				"Bara baraanii ifa koo keessa sin jiraachisaa"
+		]
 	},
-	{
+    {
 		"id":41,
-		"title":"Jaalallekoodha atii",
-		"artist":"Unknown"
+		"title":"Kaayyoo kaayyeffadhuu",
+		"artist":"Unknown",
+		"song":[
+			"Kaayyoo kaayyeffadhuuu murtoo murteeffadhuu ",
+			"Goftaa barbaaddadhuu yaa namaa×2",
+			"Ajaja foon keetiin utuu deddeebituu",
+			"Barri mul’achuusaa ga’eera maaliif hin qophooftuu×2\n\n",
+			
+			"Bara barri dhumtee yeroon raawwatamtee",
+			"Seexanni oogummaadhaa ka’eera maaliif hin qophooftuu",
+			"Hunduu wal-raasuu jalqabeera gooftaa keetti hidhadhuu\n\n",
+			
+			"Si hammeessuu yaadaa kanaaf si barbaadaa",
+			"Jalqabatti addaamii fi hewwaaniin innichi sossobee",
+			"Jaalala foon keetiin si waamaa si duratti qabee\n\n",
+			
+			"Qalbii diddiirradhaa araara gaafadhaa",
+			"Gooftaan mul’achuu ka’eera ulfinaan marfamee",
+			"Ergamoota kumaatama kumaan ajjabamee\n\n",
+			
+			"Lafa hundaa ga’anii utuu barbaadanii",
+			"Nama meeqa qaba Waaqayyo dhugaaf kan dhaabatuu",
+			"Dhugaa waaqa maccaaf dhaabatee lubbuusaa kan laatuu"
+			
+		]
 	},
 	{
 		"id":42,
-		"title":"Jaalala yeroo mucummaaa",
-		"artist":"Unknown"
+		"title":"Kunoo harki koo",
+		"artist":"Unknown",
+		"song":[
+				"Kunoo harki koo hin gabaabbannee",
+				"Isin fayyisuuf gonkumaa hin dadhabnee",
+				"(cubbuu keessantu baay’ee baay’atee",
+				"Anaaf isiniin gargar baafatee)×2\n\n",
+				
+				"Loga keessantu baay’ee baay’ate",
+				"Cubbuu keessantu baay’ee baay’ate",
+				"(Goftaan maal naan jedhaa hin jettanii",
+				"Yerooma hundumaa nah in sodaattanii)×2\n\n",
+				
+				"Harki keessan dhiigaan guuteeraa",
+				"Barruun keessan dhiigaan guuteera",
+				"(dhiqadhaa isin of qulleessaa",
+				"Kan an jibbu of irraa fageessaa)×2\n\n",
+				
+				"Afaan keessaniin soba duubbattuu",
+				"Yaada keessaniin waan hamaa yaadduu",
+				"(dhiiga dhangalaasuuf hin ariifattuu",
+				"Lakkisaa sabakoo maalumaaf badduu)×2\n\n",
+				
+				"Gara kootti amma utuu deebitanii",
+				"Cubbuu keessan irraa yoo fagaattanii",
+				"(Sodaa koos egaa yoo bartanii",
+				"Gara keessanittan deebi’aa anii)×2"
+			
+		]
 	},
-    {
+	{
 		"id":43,
-		"title":"Kaayyoo kaayyeffadhuu",
-		"artist":"Unknown"
+		"title":"Misiraachoo",
+		"artist":"Unknown",
+		"song":[
+				"Misiraachoo×2 himnaa sagalee gammachuuu ",
+				"Kan kana dhaga’ee hunduu haa ililchuu",
+				"Mucaan nuuf dhalatee maqaansaa Amaanu’eel",
+				"Fayyisaa argannee ameen ilil illilli",
+				"(Tokkollee hin argamuu kan isaan qixxaatuu ",
+				"Hamma baraa baraatti maqaansaa haa ulfaatuu)\n\n",
+
+				"Afaan raajotaatiin dur kan dubbatamee ",
+				"Dhalachuunsaa kunii raajiin kan himamee",
+				"(Maariyaam durbarraa dhufee nuuf dhalatee",
+				"Kakuu dubbatamee Gooftaan nuuf raawwatee)\n\n",
+
+			    "Cubbuun biyya lafaa guddaa bay’annaanii",
+				"HOjiin nama hundumaa badiisaaf taanaanii",
+				"(Hubatee ilaalee Waaqayyo Abbaanii",
+				"Ilmasaa tokkicha nuuf kenne Yesuusiin)×2\n\n",
+
+				"Yoo hubannee ilaallee har’a hundumti keenyaa",
+				"Attam nu jaallatee Yesuus Gooftaan keenyaa",
+				"(Waaqummaasaa dhiisee gubbaa waaqarraatii",
+				"Nuuf jedhii dhalatee biyya gidiraattii)×2\n\n",
+
+				"Karaa abboota keenyaa addaamii fi hewwaanii",
+				"Nu jalaa cufamee jannanni edenii",
+				"(Gooftaan keenya Yesuus karoora nuuf baasee",
+				"Isa cufamee turee nuuf bane deebisee)×2"
+
+		]
 	},
 	{
 		"id":44,
-		"title":"Kunoo harki koo",
-		"artist":"Unknown"
+		"title":"Jaalala yeroo mucummaaa",
+		"artist":"Unknown",
+		"song":[
+	        		"Jaalala yeroo mucummaa ke isa naaf qabduu",
+					"Meerre eessa geessee ya mucaako atii kan raftuu",
+					"Hinaaffaa yeroo mucummaa ke isa naaf qabduu",
+					"Meerree eessa geessee ya mucaako at kan jaawartuu\n\n",
+
+					"Anat si kaasee awwaara keessaa eddoo gatamtee",
+					"Anat si dhaabee ya mucaako tarrree hiriyyaakee",
+					"Qofaa ke teessee yeroo boossu anat si argee",
+					"Isa si gaaduu qaanesseetan sirraa gab-hodhee\n\n",
+
+					"Nama koo fakkaattta irra keessa homtuu si hin beekuu",
+					"Garuu keessi kee kun badeera at kana hin beektuu",
+					"Jaalala yeroo mucummaa ke sana gattteettaa",
+					"Maalooo deebi’ii ya mucaa koo an si argeeraa\n\n",
+
+					"Maqaa ko waamtee hojjetteetta dinqiii gurguddaa",
+					"Si wajjiin ta’ee an diigeeraa golee diinotaa",
+					"Har’a eessa dhaqee ayyaanniiko inni jalqabaa",
+					"Firdiitti akka hin galle mucaako deebi’I adaraa\n\n",
+
+					"Mee na dhaga’ii ya mucaako an sittan himaa",
+					"Jaalala yeroo mucummaake sana ilaalikaa",
+					"Yoo ati deebiee ya mucaako an sin deebisaa",
+					"Bara baraanii ifa koo keessa sin jiraachisaa"
+
+
+		]
 	},
 	{
 		"id":45,
-		"title":"Misiraachoo",
-		"artist":"Unknown"
+		"title":"Mucaa koo jabaadhuu",
+		"artist":"Unknown",
+		"song":[
+				"Mucaako jabaadhuu×3",
+				"Gidiraa lafarraa mo’uuf obsa qabaadhuu",
+				"(Ifti ke akka saafaa siif ba’uu ga’eeraa",
+				"HIyyummaan si hin dhiisuu si furuu ga’eeraa)×2\n\n",
+
+				"Karaanis dhugaanis jireenyis anumaa",
+				"Egaa raawwateeraa dhumti waan hundumaa",
+				"(Mucaa ko jabaadhuu garaan ke hin mamiiinii",
+				"Ba’uuf galuu keetti ani si wajjiinii)×2\n\n",
+
+				"Badiisa dingataa mucaako sin oolchaa",
+				"Teessoo seexanoota an nan galagalchaa",
+				"(Ari’atamuu keessaa obsaan kan darbnii",
+				"Buburraaqaa galuu biyya dhaala isaanii)×2\\n\n",
+
+				"Waan hundumaafiyyuu gara koo ilaalii ",
+				"Iddoo ke dhaabadhuu lola amantii lolii",
+				"(garaan ke hin mamiinii mucaako jabaadhuu",
+				"Karaan ke fagoodhaa galaake naqadhuu)×2\n\n",
+
+				"Jireenyi lafarraa nama hin gammachiisuu",
+				"Burqaa yaa’ee baduu dheebuu nama hin baasuu",
+				"(Biyyattii waaqarraa jabaadhu sin geessaa ",
+				"Gammachuun naannoftaa magaalicha keessaa)×2\n\n"
+
+		]
 	},
 	{
 		"id":46,
-		"title":"Jaalala yeroo mucummaaa",
-		"artist":"Unknown"
+		"title":"Mucaa kee na godhuu",
+		"artist":"Unknown",
+		"song":[
+					"Dammaqii×4 iddoo jirtu barii ariifadhuutii",
+					"Utuu yeroo qabduu ka’ii atii",
+					"Yesuus hin deebi’aa yeroo isaattii\n\n",
+
+					"Biyyi lafaa hin darba guutummaan hojiisaa",
+					"Maaliif si gowwomsa maaf kaatta duukaasaa",
+					"Bareeda fakkaate argama bu’aansaa",
+					 "Gubii baraa baraa badiisa dhumnisaa",
+
+					"Hir’uu amantiitiin dhaabachuu hin dandeessuu",
+					"Guutuutti akka argamtuutti abboommisaa hubadhuu",
+					"Qubatti hidhadhuu garaatti barreeffadhuu",
+					"Waan gootu hundumaaf oogummaa bitadhuu\\n\n",
+
+					"Guyyaan har’aa hin darbaa deebi’ee hin dhufuu ",
+					"Booddeetti deebi’ee lamuu hin lakka’amuu",
+					"Yesuus hin deebi’aa guyyaasa eeggatee",
+					"Fuulasaa arguudhaaf qophoofteettamooree"
+
+		]
 	},
 	{
 		"id":47,
-		"title":"Mucaa koo jabaadhuu",
-		"artist":"Unknown"
+		"title":"Maal dadhaba",
+		"artist":"Unknown",
+		"song":[
+			"Maal dadhaba Gooftaan danda’aa waan hundumaa",
+			"Kan akkasaa guddaan hin jiru gonkumaa",
+			"Isa awwaalamee ifatti baasee",
+			"Alaazaariin waamee du’aa kan kaasee",
+			"Itti beeka goftaan seenaa jijjiiruu ",
+			"Isa kan rakkisu tokkollee hin jiru\n\n",
+			
+			"Bidiruun bartootaa yeroo raafamee",
+			"Dinqii godhe Goftaan galaanarra deemee",
+			"(Humna Waaqummmaasaa itti agarsiisee",
+			"Bubbee galaanichaa cal jechisiisee)×2\n\n",
+			
+			"Mandara nahiimiyaa yommuu itti gooree",
+			"Reeffa dargaggichaa bira yommuu ga’ee",
+			"(isa du’aa fuudhee jiraataa godhee",
+			"Qe’ee warra gaddaa gammachuun guutee)×2\n\n",
+			
+			"Saba jooraa ture isat barbaadee",
+			"Karaasaarraa gorraan isatu waamee",
+			"(Har’as maal dadhabaa gonkumaa hin jiru",
+			"Humna jabaa qaba seenaa jijjiiruuf)×2\n\n",
+			
+			"Har’as kan gumgumtuu gargaarsa dhabdee",
+			"Hibboo jireenyakeef hiikkoo kan dhabdee",
+			"(isatuu si furaa furiinke isaa",
+			"Solomooniin caalaa gaafii deebiisaa)×2"
+			
+		]
 	},
 	{
 		"id":48,
-		"title":"Mucaa kee na godhuu",
-		"artist":"Unknown"
+		"title":"Maal fakkaata",
+		"artist":"Unknown",
+		"song":[
+					"Maal fakkkaata Gooftaa jireenyikoo fuula keettii",
+					"Madaalamee irraanfatameera fuula namaatti",
+					"(na ilaaltee na madaaltee hin darbiin akkasittii",
+					"Naaf jijjiirii galmeen jireenyako harka keetii)×2\n\n",
+
+					"Deemuudhaafoo hin dandeenye Gooftaa natti ulfaataa",
+					"Gaarummaa ko miti hamummaa kotu baay’ataa",
+					"Kanaaaf Goftaa kootuu ulfina keetiin na gargaarii",
+					"Humna hafuurake isa jiraataatiin at na dhaabii\n\n",
+
+					"Dhiphisanii na sodaachisan diinonnikoo",
+					"Baay’ee gaddee iddooo gadhiiseer jireenyikoo",
+					"Kanaaaf Goftaa koottu jireenyako sakkatta’ii",
+					"Diinotako na balleessuu yaadan narraa dha’ii\n\n",
+
+					"Sin kadhadhaa na gargaari ati Waaqayyokoo",
+					"Situ argaa sittan himaa dhoksaa jireenyakoo",
+					"Yommuun ta’ee firoota korraa furmaata dhabuu",
+					"Anaaf taatee kennaa isa meetiif warqeerra caaluu\n\n",
+
+					"Baroota koo hundumaatti ati na eebbisii",
+					"Tabbootaa fi tulloota jiran wal qixxeessii",
+					"Na qabsiisii karaa jireenyake na qabsiisii",
+					"Lafa abdii ko yerusaalemiin na geessisii"
+
+				]
 	},
 	{
 		"id":49,
-		"title":"Maal dadhaba",
-		"artist":"Unknown"
-	},
-	{
-		"id":50,
-		"title":"Maal fakkaata",
-		"artist":"Unknown"
-	},
-	{
-		"id":51,
 		"title":"Moogooleko  dhaabii",
-		"artist":"Unknown"
+		"artist":"Unknown",
+		"song":[
+				"Moogooleko dhaabii atii na jabeessii",
+				"Jireenya hin dabarreef yesuus na qopheessii",
+				"Jalqaba ko caalaa dhuma ko miidhaksii",
+				"Galmee jireenyaatti maqaa ko galmeessii\n\n",
+
+				"Baay’een hin dhama’uu sirraa na kaachisuuf ",
+				"Guddaa na dhiphiisuu akka ani si dhiisuuf",
+				"Biyya lafaa foonko akeeka seexanaa",
+				"Itti na in kenniiiniii yaaa Mootii Ulfiinaa\n\n",
+				
+				"Giidiraaan baay’atee yommuu na dhiphiisuu",
+				"Akkan hin jabaanneef humna na laaffisuu",
+				"Kana hunda keessatti ati harka ko qabii",
+				"Ayyaaana keetiin jabeessii na dhaabii\n\n",
+				
+				"Jaalala ke taanaan homtuu na hin argatuu",
+				"Fedha ke taanaan silaa na hin argatuu",
+				"An sitti of kenneeraa yesus na gargaarii",
+				"Warra na dhiphisan Gooftaa narraa dha’ii\n\n",
+				
+				"Siif hojjechuudhaaf kutadhee kaanaanii",
+				"Sobaan na sossoobuu dhugaa fakkeessanii",
+				"Lubbuunko gabbannaan warri hinaafaanii",
+				"Humna ke naaf ergi akka qaana’anii"
+			
+		]
 	}
 
 ]

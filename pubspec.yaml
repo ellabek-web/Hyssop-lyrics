@@ -32,6 +32,20 @@ dependencies:
   flutter:
     sdk: flutter
   provider:
+  flutter_native_splash: ^2.2.4
+  
+
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+
+  background image: "assets/image/splash.png"
+  image: "assets/image/splash.png"
+
+
+
 
 
   # The following adds the Cupertino Icons font to your application.

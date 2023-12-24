@@ -1,9 +1,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'appdrawer.dart';
 import 'widgets/song_list.dart';
 import 'config/theme.dart';
+import 'songdetail.dart';
+import 'config/favorite_model.dart';
 
 import 'package:flutter/services.dart' as rootBundle;
 
@@ -25,9 +28,11 @@ class _MyHomePageState extends State<MyHomePage> {
 
   List data=[];
   List filteredData=[];
+  List isfavorite=[];
+  
 
   @override
-  void initState() {
+  void initState() { 
     super.initState();
     loadData();
   }
@@ -63,8 +68,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Align(
           alignment: Alignment.centerRight,
           child: Text(" Hyysop Lyrics",
-          
-                 
+
+      
           
                    ),
         ),
@@ -112,18 +117,28 @@ class _MyHomePageState extends State<MyHomePage> {
 
                     subtitle: Text(filteredData[index]['title'],
                     style: Theme.of(context).textTheme.titleSmall,),
-                    trailing: IconButton(
-                      alignment: Alignment.centerLeft,
-                              icon: Icon(
-                                Icons.favorite_border,
-                                size: 30.0,
-                                color: Colors.brown[900],
-                              
-                              ),
-                              onPressed: () {
-                                //   _onDeleteItemPressed(index);
+                    trailing: Consumer<FavoriteModel>(builder: (context,data, child){
+
+                     
+
+                      
+                    
+                   return  IconButton(
+                       
+                       onPressed: () {
+                                data.addFavorite(index); 
+                                
                               },
-                            ),
+                       alignment: Alignment.centerLeft,
+                              icon: Icon (
+                                data.favorite.contains(index)?  Icons.favorite : Icons.favorite_border,
+                                color: Colors.red,
+                             
+                            ));}),
+                          onTap: () {
+                            Navigator.push(context,MaterialPageRoute(builder: (context)=> SongDetail(filteredData: filteredData[index]['song'],title: filteredData[index]['title'])));
+                          },
+                      
                   ),
                 );
               },
@@ -135,8 +150,57 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 
+           //for favorite tap
 
-              Icon(Icons.directions_transit),            
+
+
+
+           Consumer<FavoriteModel>(builder: (context,data, child){
+            return ListView.builder(
+              itemCount: data.favorite == null ? 0 : data.favorite.length,
+              itemBuilder: (BuildContext context, int index) {
+                return Card(
+                  child: ListTile(
+
+                     title: Text(filteredData[data.favorite[index]]['title'],
+                     style: Theme.of(context).textTheme.titleMedium,),
+
+                     subtitle: Text(filteredData[data.favorite[index]]['title'],
+                     style: Theme.of(context).textTheme.titleSmall,),
+
+                    
+                      trailing:  IconButton(
+                      alignment: Alignment.centerLeft,
+                              icon: Icon(
+                                Icons.favorite,
+                                size: 30.0,
+                                color: Colors.red,
+                              
+                              ),
+                              onPressed: () {
+                                data.removeFavorite(index);   
+                              },
+                            ),
+
+
+                    // title: Text(data.favorite[index]['title'],
+                    //  style: Theme.of(context).textTheme.titleMedium,),
+
+                    // subtitle: Text(data.favorite[index]['title'],
+                    // style: Theme.of(context).textTheme.titleSmall,),
+                    
+                          onTap: () {
+                            Navigator.push(context,MaterialPageRoute(builder: (context)=> SongDetail(filteredData: filteredData[index]['song'],title: filteredData[index]['title'])));
+                          },
+                      
+                  ),
+                );
+              },
+            );}
+          ),
+
+
+                         
             ],
           ),
       drawer: appDrawer(size: size)

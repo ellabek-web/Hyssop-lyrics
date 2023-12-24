@@ -40,7 +40,7 @@ class appDrawer extends StatelessWidget {
          ),
          ListTile(
          title: Text('text',
-                style: Theme.of(context).textTheme.titleLarge,
+                style: Theme.of(context).textTheme.titleMedium,
          ),
          onTap: (){
           Navigator.pop(context);
@@ -50,7 +50,7 @@ class appDrawer extends StatelessWidget {
          ),
          ListTile(
          title: Text('text',
-                 style: Theme.of(context).textTheme.titleLarge,
+                 style: Theme.of(context).textTheme.titleMedium,
          ),
          onTap: (){
           Navigator.pop(context);
